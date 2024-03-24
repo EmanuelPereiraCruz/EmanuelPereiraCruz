@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Develops;Coffee;Sleep)](https://git.io/typing-svg)
 
-### Tecnologias que estou aperfeiçoando, 🚀
+### Tecnologias que estou me aperfeiçoando, 🚀
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py,mysql)](https://skillicons.dev)
 

@@ -11,4 +11,3 @@
 
 ### Contate-me, :D
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/emanuel-pereira-cruz/)
-[![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)](https://www.linkedin.com/in/emanuel-pereira-cruz/)

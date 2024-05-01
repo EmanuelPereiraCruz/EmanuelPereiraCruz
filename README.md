@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo(a) ao meu perfil, 😃
 <b>Me chamo Emanuel, e atualmente estou me graduando em análise e desenvolvimento de sistemas pelo IFPE</b>. Além disso, também estou realizando uma formação em Front End pela Alura em parceria com a Oracle, nessa formação estou tendo a oportunidade de aprender mais sobre: HTML, CSS, JavaScript e React.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HTML;CSS;React;JavaScript;Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Html;Css;React;JavaScript;Python)](https://git.io/typing-svg)
 
 ### Tecnologias que estou me aperfeiçoando, 🚀
 

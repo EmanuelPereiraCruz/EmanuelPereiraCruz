@@ -10,11 +10,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelPereiraCruz)](https://github.com/EmanuelPereiraCruz/github-readme-stats)
 
 ### Contate-me, :D
+<p align="center">
   <a href="[https://skillicons.dev](https://www.linkedin.com/in/emanuel-pereira-cruz/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:emanuelpereiracruz23@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-
+</p>
   

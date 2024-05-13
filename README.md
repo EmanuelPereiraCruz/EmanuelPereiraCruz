@@ -11,8 +11,6 @@ Estou à disposição para conversas futuras. Você pode encontrar meu LinkedIn 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py,mysql)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelPereiraCruz)](https://github.com/EmanuelPereiraCruz/github-readme-stats)
-
 ### Contate-me, :D
 <p>
   <a href="[https://skillicons.dev](https://www.linkedin.com/in/emanuel-pereira-cruz/)">

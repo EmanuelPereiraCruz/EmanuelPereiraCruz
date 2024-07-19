@@ -1,6 +1,12 @@
-### Olá, seja bem-vindo(a) ao meu perfil, 😃
-<b>Me chamo Emanuel, e atualmente estou me graduando em análise e desenvolvimento de sistemas pelo IFPE.</b></br></br>Conclui recentemente a formação em <b>Front End</b> pela Alura em parceria com a Oracle, nessa formação tive a oportunidade de aprender mais sobre: HTML, CSS, JavaScript e React.<br></br>
-Além disso, no momento estou participando de uma formação full stack oferecida pelo Bootcamp do Avanti.
+
+# Olá, eu sou a Emanuel! 👋
+## Seja bem-vindo(a) ao meu perfil, é um prazer ter você aqui.
+
+Estou me graduando em análise e desenvolvimento de sistemas pelo IFPE.
+
+Conclui recentemente a formação em Front End pela Alura em parceria com a Oracle, nessa formação tive a oportunidade de aprender mais sobre: HTML, CSS, JavaScript e React.
+
+Além disso, estou participando de uma formação full stack oferecida pelo Bootcamp do Avanti.
 
 No momento, estou interessado em atuar como desenvolvedor back-end ou full-stack. Adicionalmente, tenho uma inclinação particular para a área de dados, com foco em análise de dados e gerenciamento de projetos.
 

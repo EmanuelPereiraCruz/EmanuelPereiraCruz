@@ -13,7 +13,7 @@ Estou à disposição para conversas futuras. Você pode encontrar meu LinkedIn 
 
 ### Contate-me, :D
 <p>
-  <a href="[https://skillicons.dev](https://www.linkedin.com/in/emanuel-pereira-cruz/)">
+  <a href="https://www.linkedin.com/in/emanuel-pereira-cruz/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:emanuelpereiracruz23@gmail.com">

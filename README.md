@@ -1,5 +1,5 @@
 
-# Olá, eu sou a Emanuel! 👋
+# Olá, eu sou o Emanuel! 👋
 
 Estou me graduando em análise e desenvolvimento de sistemas pelo IFPE.
 

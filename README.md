@@ -15,7 +15,7 @@ Estou à disposição para conversas futuras. Você pode encontrar meu LinkedIn 
 
 ### Tecnologias que estou me aperfeiçoando, 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,py,java,spring,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,py,java,spring,mysql,postgres,prisma)](https://skillicons.dev)
 
 ### Contate-me, :D
 <p>

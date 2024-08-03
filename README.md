@@ -19,7 +19,7 @@ Estou à disposição para conversas futuras. Você pode encontrar meu LinkedIn 
 
 ### Contate-me, :D
 <p>
-  <a href="https://www.linkedin.com/in/emanuel-pereira-cruz/" target="_blank">
+  <a href="https://www.linkedin.com/in/emanuel-pereira-cruz/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:emanuelpereiracruz23@gmail.com">

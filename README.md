@@ -1,15 +1,9 @@
 
 # Olá, eu sou o Emanuel! 👋
 
-Estou me graduando em análise e desenvolvimento de sistemas pelo IFPE.
+Estou me graduando em Análise e Desenvolvimento de Sistemas pelo IFPE, com uma sólida formação em desenvolvimento front-end e back-end. Concluí recentemente um curso de Front End pela Alura em parceria com a Oracle, onde adquiri conhecimentos aprofundados em HTML, CSS, JavaScript e React.  Além disso, também finalizei a formação Full Stack, Bootcamp oferecido pela Escola Atlântico Avanti onde consegui compreender mais e melhor sobre as etapas do desenvolvimento de uma aplicação web.
 
-Conclui recentemente a formação em Front End pela Alura em parceria com a Oracle, nessa formação tive a oportunidade de aprender mais sobre: HTML, CSS, JavaScript e React.
-
-Além disso, estou participando de uma formação full stack oferecida pelo Bootcamp do Avanti. Em busca de novos desafios, inicie recentemente um Bootcamp com foco em Java oferecido pela plataforma Dio em parceria com a empresa Claro.
-
-No momento, estou interessado em atuar como desenvolvedor back-end ou full-stack. Adicionalmente, tenho uma inclinação particular para a área de dados, com foco em análise de dados e gerenciamento de projetos.
-
-Estou à disposição para conversas futuras. Você pode encontrar meu LinkedIn e e-mail disponíveis em meu perfil.
+Estou em busca de novos desafios e oportunidades para atuar como desenvolvedor back-end ou full-stack. 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Html;Css;React;JavaScript;Python;SQL;Java)](https://git.io/typing-svg)
 
